@@ -1,9 +1,9 @@
 # Election Analysis
 
-## Project Overview
+## Overview of Election Audit
 With the use of our resources, we will use the election audit results to determine the voter turnouts, percentage of votes, and highest voter turnout for all the counties.
 
-## Challenge Overview
+## Election Audit Results
 
 1. How many votes were cast in this congressional election?
     - Total of 369,711 Votes
@@ -22,7 +22,7 @@ With the use of our resources, we will use the election audit results to determi
  
 ![This is an image](https://github.com/sadayas/Election_Analysis/blob/main/Resources/election_challenge_results.png)
 
-## Challenge Summary
+## Election Audit Summary
 
 During the process of reading and developing the code, we were able to determine the winner of the election. 
 
